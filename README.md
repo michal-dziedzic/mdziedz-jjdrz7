@@ -1,1 +1,3 @@
-# JJDRZ7
+# JJDRZ7java
+java podstawy gita
+jezyk-java
